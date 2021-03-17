@@ -22,12 +22,12 @@ Keep in mind that this is an academical work and has not been field tested.
 ## Data Visualization
 
 <p float="left">
-  <img src="https://github.com/FilipePires98/VideoViralizationTool/blob/main/docs/img/SIRModel_JordanPetersonDebate.png" width="420px">
-  <img src="https://github.com/FilipePires98/VideoViralizationTool/blob/main/docs/img/SIRModel_AvengersEndgame.png" width="420px">
+  <img src="https://github.com/FilipePires98/VideoViralizationTool/blob/main/docs/img/SIRModel_JordanPetersonDebate.png" width="360px">
+  <img src="https://github.com/FilipePires98/VideoViralizationTool/blob/main/docs/img/SIRModel_AvengersEndgame.png" width="360px">
 </p>
 <p float="left">
-  <img src="https://github.com/FilipePires98/VideoViralizationTool/blob/main/docs/img/SIRModel_NotreDameFire.png" width="420px">
-  <img src="https://github.com/FilipePires98/VideoViralizationTool/blob/main/docs/img/SIRModel_GoldieBlox.png" width="420px">
+  <img src="https://github.com/FilipePires98/VideoViralizationTool/blob/main/docs/img/SIRModel_NotreDameFire.png" width="360px">
+  <img src="https://github.com/FilipePires98/VideoViralizationTool/blob/main/docs/img/SIRModel_GoldieBlox.png" width="360px">
 </p>
 Simulations executed in MATLAB with the datasets from J. B. Peterson’s debate, Avengers Endgame trailer, Notre Dame’s fire and GoldieBlox’s promotional video, respectively.
 The symbols *, ○, □ correspond to the values from the datasets of susceptible, infected and recovered populations.
