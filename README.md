@@ -1,6 +1,11 @@
 # YouTube Video Viralization Tool
 A mathematical tool to optimize efforts of making viral youtube videos
 
+![](https://img.shields.io/badge/Academical%20Project-Yes-success)
+![](https://img.shields.io/badge/Data%20Source-Google%20Trends-lightgrey)
+![](https://img.shields.io/badge/Made%20with-MATLAB-orange)
+![](https://img.shields.io/badge/Maintained-No-red)
+
 ## Description
 
 This project consists of a case study on YouTube viralization and can be summarized into a list of 3 goals:
